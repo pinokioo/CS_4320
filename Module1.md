@@ -1,6 +1,6 @@
 ## Starving all the time.
 
-[Back To Pinokioo's Homepage](https://github.com/pinokioo/CS_4320/blob/master/README.md)
+[Back To Pinokioo's Homepage](https://github.com/pinokioo/CS_4320)
 
 ### Roasted duck breast with golden orange juice
     
