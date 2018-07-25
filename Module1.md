@@ -34,6 +34,8 @@
     <td>right</td>
   </tr>
 </table> 
+
+# **Eating is**
     
 <ul>
 <li>Hard</li>
@@ -42,11 +44,12 @@
 <li>Eat</li>
 <li>!</li>
 </ul>
-***
+
+
 <ol>
 <li>Easy</li>
 <li>To</li>
 <li>Be</li>
 <li>Full</li>
 </ol>
-***
+
