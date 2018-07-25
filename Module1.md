@@ -9,7 +9,7 @@
  [ *Google the recipe* ](https://www.google.com/)
     
   
- ![Pictures of Han Fu]("yidalimian.jpeg")
+ ![Picture](https://github.com/pinokioo/CS_4320/blob/master/yidalimian.jpeg?raw=true)
     
     
 ![Pictures](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528699130912&di=34ca095c94f2eb706e8049a3cc850301&imgtype=0&src=http%3A%2F%2Frj1.douguo.net%2Fupload%2Fdiet%2Fe%2F9%2F4%2Fe92cb0bcb44aeee525c8eac58009c924.png)
@@ -42,40 +42,11 @@
 <li>Eat</li>
 <li>!</li>
 </ul>
-    
+***
 <ol>
 <li>Easy</li>
 <li>To</li>
 <li>Be</li>
 <li>Full</li>
 </ol>
-    
-    
-<p>Today's calories:</p>
-
-<p id="amount"></p>
-
-<script>
-function myFunction() {
-    return 3500;
-}
-
-document.getElementById("amount").innerHTML = myFunction();
-</script>
-    
-    <HR style="border:3 #987cb9" width="100%" color=black SIZE=3></HR>
-    
-    <br>
-    <p><b>Dont wanna drive tonight.</b></p> 
-    <br>
-    <i>Can you please drive me there baby?</i>
-    <br>
-    <p><s>Honestly, I hate your favourite restaurant.</s></p> 
-    <br>
-    
-    <HR style="border:3 #987cb9" width="100%" color=black SIZE=3></HR>
-    
-</body>
-
-</html>
-
+***
