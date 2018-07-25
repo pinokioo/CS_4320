@@ -35,7 +35,7 @@
   </tr>
 </table> 
 
-# **Eating is**
+# **It is**
     
 <ul>
 <li>Hard</li>
